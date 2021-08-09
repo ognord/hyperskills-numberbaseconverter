@@ -1,6 +1,7 @@
 # hyperskills-numberbaseconverter
 Convert number from any base to any base
-Example
+
+<b>Example</b>
 The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
 
 Enter two numbers in format: {source base} {target base} (To quit type /exit) > 10 7
